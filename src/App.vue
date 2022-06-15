@@ -1,6 +1,6 @@
 <template>
   <nav><router-link to="/">Lista Provincias</router-link></nav>
-  <search-bar></search-bar>
+  <NavBar />
   <router-view />
 </template>
 
